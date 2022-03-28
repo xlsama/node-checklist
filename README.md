@@ -1,2 +1,17 @@
-![视频](http://xlsama.com/assets/img/node-checklist.gif)
+## Usage
 
+To start Neovim, run `t`
+
+![use](images/node-checklist-use.gif)
+
+## Install
+
+```shell
+npm i -g node-checklist
+```
+
+## Clear LocalStorage
+
+```shell
+rm ~/.todo
+```
