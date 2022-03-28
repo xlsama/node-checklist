@@ -1,6 +1,6 @@
 ## Usage
 
-To start Neovim, run `t`
+run `t`
 
 ![use](images/node-checklist-use.gif)
 
